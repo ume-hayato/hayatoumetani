@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Hayato Umetani"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - vitae.qmd
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: false
+
+
+
