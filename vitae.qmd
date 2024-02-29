@@ -2,4 +2,4 @@
 title: "Vitae"
 ---
 
-Find my CV [here](https://ume-hayato.github.io/cv/out/cv.pdf).
+Find my CV [here](https://ume-hayato.github.io/cv/cv.pdf).
