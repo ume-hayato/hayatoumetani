@@ -8,4 +8,4 @@ title: "Rsearch"
 
 ## Working Papers
 
-- "Wildfires, Pollution, and Pregnancy Outcomes: Evidence from Lightning Strikes"
+- "Wildfires, Pollution, and Pregnancy Outcomes: Evidence from Lightning Strikes" [Download](https://dx.doi.org/10.2139/ssrn.4833440) **Submitted**
