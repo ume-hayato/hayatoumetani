@@ -1,0 +1,33 @@
+---
+title: "Hayato Umetani"
+# image: avatar.jpg
+about:
+  template: trestles
+  links:
+    - text: "{{< iconify academicons:google-scholar >}} Google Scholar"
+      url: "https://scholar.google.com/citations?user=fyGSoRIAAAAJ&hl=ja"
+    - text: Email
+      icon: envelope
+      url: "210i005i@stu.kobe-u.ac.jp"
+    - text: CV
+      url: "https://ume-hayato.github.io/cv/cv.pdf"
+    - text: <svg xmlns="http://www.w3.org/2000/svg" width="0.8em" height="0.8em" viewBox="0 0 16 16"><path fill="currentColor" d="M13.756 10.164c1.665-.962 1.665-3.366 0-4.328L5.251.919C3.584-.045 1.5 1.158 1.5 3.083v9.834c0 1.925 2.084 3.128 3.751 2.164z"/></svg> researchmap
+      url: "https://researchmap.jp/hayatoumetani"
+comments: false
+---
+
+## Bio
+
+I am a PhD student at Kobe University, Japan.
+My research interests include applied economics with focus on Environmental Economics and Development Economics.
+
+## Upcoming Presentations
+
+- ~~**Feb, 21**, J-TREE Workshop, *Tohoku Gakuin University*~~
+- ~~**Mar, 8**, International Workshop on Environmental Economics, *Keio University*~~
+- ~~**Apr, 11**, Musashi Research Workshop, *Musashi University*~~
+- ~~**May, 25**, Japanese Economic Association, *Tokyo Keizai University*~~
+- ~~**Sep, 14-15**, Society for Environmental Economics and Policy Studies, *Kansai University*~~
+- ~~**Oct, 18-19**, Occasional Workshop in Environmental and Resource Economics, *UC Santa Barbara*~~
+- **Nov, 13**, OSSIP Lunch Seminar, *Osaka University*
+- **Dec, 12-14**, AASLE *Chulalongkorn University*

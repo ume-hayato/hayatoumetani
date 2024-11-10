@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Hayato Umetani"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - vitae.qmd
+  page-footer:
+    left: "© Copyright 2024 Hayato Umetani."
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+
+
+

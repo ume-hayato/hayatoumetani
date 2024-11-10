@@ -1,0 +1,18 @@
+---
+title: "Rsearch"
+---
+
+## Publications
+
+- [Heterogeneous effects of Aid-for-Trade on donor exports: Why is Japan different?](https://doi.org/10.1111/roie.12656) (with Shuhei Nishitateno) ***Review of International Economics***, 31(3), 1117–1145, 2023
+
+This study estimates the Aid-for-Trade (AfT)-export elasticity from the donor perspective, focusing on the top-five donor countries: Japan, Germany, France, US, and UK. We find the elasticity for Japan is large, suggesting that the Japanese AfT generates a net export expansion, in contrast with the other top donors. We examine the potential mechanism behind the export creation effect of Japanese AfT using unique contract data on infrastructure-related projects worldwide. The results suggest that Japanese AfT, highly concentrated in economic infrastructure, works as an informal tying arrangement, closely linking aid to donor exports associated with capital goods for infrastructure construction.
+
+## Working Papers
+
+- [Wildfires, Pollution, and Pregnancy Outcomes: Evidence from Lightning Strikes](https://dx.doi.org/10.2139/ssrn.4833440) **Submitted**
+
+Although the risk of wildfire is increasing, its impact on pollution and health is understudied due to economic confounders.
+Using lightning strikes as an instrumental variable, this study finds that a 1 standard deviation increase in wildfire emits many pollutants well above the national air quality standards at the county average.
+Accordingly, the same increase in wildfires reduces birth weight by 118.1 grams and decreases gestational age by 0.377 weeks.
+Given the increasing number of lightning strikes due to global warming, the reduced-form effect calls for more attention to natural pollution rather than man-made pollution.
