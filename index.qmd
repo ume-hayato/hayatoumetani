@@ -25,7 +25,7 @@ My research interests include applied economics with focus on Environmental Econ
 
 [Wildfires, Pollution, and Pregnancy Outcomes: Evidence from Lightning Strikes](https://ume-hayato.github.io/cv/wp/draft_wildfires.pdf) 
 
-*Selected for the runner-up of the 27th Moriguchi prize by ISER*
+***Selected for the runner-up of the 27th Moriguchi prize by ISER***
 
 Although the risk of wildfire is increasing, its impact on pollution and health is understudied due to economic confounders.
 Using lightning strikes as an instrumental variable, this study finds that a 1 standard deviation increase in wildfire emits many pollutants well above the national air quality standards at the county average.
