@@ -11,7 +11,7 @@ website:
       - research.qmd
       - vitae.qmd
   page-footer:
-    left: "© Copyright 2024 Hayato Umetani."
+    left: "© Copyright 2026 Hayato Umetani."
 
 format:
   html:
