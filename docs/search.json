@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Hayato Umetani",
     "section": "",
-    "text": "I am a PhD student at Kobe University, Japan. My research interests include applied economics with focus on Environmental Economics and Development Economics."
+    "text": "I am a Senior Lecturer at Kyoto University, Japan. My research interests include applied economics with focus on Environmental Economics and Health Economics."
   },
   {
     "objectID": "index.html#bio",
     "href": "index.html#bio",
     "title": "Hayato Umetani",
     "section": "",
-    "text": "I am a PhD student at Kobe University, Japan. My research interests include applied economics with focus on Environmental Economics and Development Economics."
+    "text": "I am a Senior Lecturer at Kyoto University, Japan. My research interests include applied economics with focus on Environmental Economics and Health Economics."
   },
   {
     "objectID": "index.html#featured-project",
@@ -25,7 +25,7 @@
     "href": "index.html#upcoming-presentations",
     "title": "Hayato Umetani",
     "section": "Upcoming Presentations",
-    "text": "Upcoming Presentations"
+    "text": "Upcoming Presentations\n\n[2026/6] World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal"
   },
   {
     "objectID": "research.html",
@@ -47,6 +47,13 @@
     "title": "Research",
     "section": "Working Papers",
     "text": "Working Papers\n\nWildfires, Pollution, and Pregnancy Outcomes: Evidence from Lightning Strikes Submitted\n\nAlthough the risk of wildfire is increasing, its impact on pollution and health is understudied due to economic confounders. Using lightning strikes as an instrumental variable, this study finds that a 1 standard deviation increase in wildfire emits many pollutants well above the national air quality standards at the county average. Accordingly, the same increase in wildfires reduces birth weight by 118.1 grams and decreases gestational age by 0.377 weeks. Given the increasing number of lightning strikes due to global warming, the reduced-form effect calls for more attention to natural pollution rather than man-made pollution."
+  },
+  {
+    "objectID": "research.html#working-papers-in-japanese",
+    "href": "research.html#working-papers-in-japanese",
+    "title": "Research",
+    "section": "Working Papers in Japanese",
+    "text": "Working Papers in Japanese\n\nエビデンスは政策立案に影響を及ぼすか？－自治体職員を対象としたコンジョイント実験による分析－ (with Kengo Igei, Yohei Kobayashi, Ryo Takahashi, and Makiko Nakamuro)\n自治体職員はどのようにEBPMを捉え、実践しているか？－EBPMに関する自治体横断調査より－ (with Kengo Igei, Yohei Kobayashi, Ryo Takahashi, and Makiko Nakamuro)"
   },
   {
     "objectID": "research.html#work-in-progress",

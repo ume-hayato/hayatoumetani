@@ -17,6 +17,12 @@ Using lightning strikes as an instrumental variable, this study finds that a 1 s
 Accordingly, the same increase in wildfires reduces birth weight by 118.1 grams and decreases gestational age by 0.377 weeks.
 Given the increasing number of lightning strikes due to global warming, the reduced-form effect calls for more attention to natural pollution rather than man-made pollution.
 
+## Working Papers in Japanese
+
+- [エビデンスは政策立案に影響を及ぼすか？－自治体職員を対象としたコンジョイント実験による分析－](https://www.rieti.go.jp/jp/publications/dp/25j033.pdf) (with Kengo Igei, Yohei Kobayashi, Ryo Takahashi, and Makiko Nakamuro)
+
+- [自治体職員はどのようにEBPMを捉え、実践しているか？－EBPMに関する自治体横断調査より－](https://www.rieti.go.jp/jp/publications/dp/25j033.pdf) (with Kengo Igei, Yohei Kobayashi, Ryo Takahashi, and Makiko Nakamuro)
+
 ## Work in Progress
 
 - Wildfires and the Labor Market
