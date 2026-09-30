@@ -1,1 +1,5 @@
 /* css styles */
+
+details > summary.abstract-toggle {
+  margin-inline-start: 2em;
+}
