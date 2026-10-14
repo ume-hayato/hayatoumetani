@@ -23,14 +23,14 @@ My research interests include applied economics with focus on Environmental Econ
 
 ## Featured Project
 
-[Wildfires, Pollution, and Pregnancy Outcomes: Evidence from Lightning Strikes](https://ume-hayato.github.io/cv/wp/draft_wildfires.pdf) 
+[Wildfires and Birth Outcomes: Evidence from Lightning Strikes](https://ume-hayato.github.io/cv/wp/draft_wildfires.pdf)
 
 ***Selected for the runner-up of the 27th Moriguchi prize by ISER***
 
-Although the risk of wildfire is increasing, its impact on pollution and health is understudied due to economic confounders.
-Using lightning strikes as an instrumental variable, this study finds that a 1 standard deviation increase in wildfire emits many pollutants well above the national air quality standards at the county average.
-Accordingly, the same increase in wildfires reduces birth weight by 118.1 grams and decreases gestational age by 0.377 weeks.
-Given the increasing number of lightning strikes due to global warming, the reduced-form effect calls for more attention to natural pollution rather than man-made pollution.
+This study estimates the causal effect of wildfires on health at birth by using lightning strikes as an instrumental variable.
+In the birth month, a one standard deviation increase in natural-caused wildfire size from its sample mean increases the incidence of low birth weight by 1.1 per 1,000 births.
+Alongside the existing evidence on wildfire smoke, the results provide suggestive evidence of a local-disruption channel, including stress-related responses.
+Finally, the estimated adverse birth-weight effect is smaller in counties where more land had previously been treated to reduce wildfire fuels through prescribed burning or mechanical vegetation removal.
 
 ## Upcoming Presentations
 
