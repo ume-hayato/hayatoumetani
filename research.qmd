@@ -15,7 +15,7 @@ This study estimates the Aid-for-Trade (AfT)-export elasticity from the donor pe
 
 ## Working Papers
 
-- [Civil Liability, Environmental Quality, and Manufacturing: Evidence from Japan’s Four Major Pollution Diseases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7539260) (with Yuya Aikawa)
+- [The Fight Against Pollution: Civil Liability and Manufacturing in Japan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7539260) (with Yuya Aikawa)
 
 <details>
 <summary class="abstract-toggle">Abstract</summary>
